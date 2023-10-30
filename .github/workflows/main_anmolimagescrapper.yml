@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'anmolImagescrapper'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDB8E80C76834892B104663ED62E2107 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_128BC0548BB4427FB45A65980407094B }}
